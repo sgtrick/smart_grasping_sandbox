@@ -9,7 +9,7 @@
 
 - git:
     local-name: gazebo2rviz
-    version: F_add_moveit_funtionallity
+    version: F_fix_rospkg_dependency
     uri: https://github.com/shadow-robot/gazebo2rviz.git
 
 - git:
